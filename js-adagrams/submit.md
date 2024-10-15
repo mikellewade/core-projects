@@ -6,7 +6,7 @@
 * type: testable-project
 * id: a5bcb614-702c-4df8-a7a3-d8c6401691ae
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/js-adagrams
+* upstream: https://github.com/mikellewade/js-adagrams
 * validate_fork: false
 * points: 1
 * topics: javascript
